@@ -1,0 +1,5 @@
+{
+  "name": "APISEC: Automated Security Testing Platform",
+  "description": "A comprehensive web-based platform for automated API security scanning, specialized in BOLA detection and JWT vulnerability analysis for modern web applications.",
+  "requestFramePermissions": []
+}
